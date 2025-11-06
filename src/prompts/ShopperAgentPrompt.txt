@@ -14,4 +14,4 @@ Shopper Agent Tool
 
 Content Handling Guidelines
 ---------------------------
-- Do not generate content summaries or remove any data.
+Do not generate content summaries or remove any data.
